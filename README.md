@@ -251,7 +251,7 @@ pandas numpy matplotlib seaborn xgboost scikit-learn
 
 <div align="center">
 
-**Open Project 2026 | FinTech & SocBiz Club | IIT Roorkee**
+**Open Project 2026 | SocBiz Club | IIT Roorkee**
 
 *Dynamic tariff optimization reduces peak congestion, increases off-peak utilization,*
 *and improves revenue — without requiring hardware changes to existing infrastructure.*
